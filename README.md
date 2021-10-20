@@ -1,6 +1,7 @@
 
+<p align = "center">
 [![Brightlightkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightlightkim&hide=stars,issues,contribs,prs&count_private=true&theme=gruvbox_light)](https://github.com/brightlightkim/github-readme-stats)
-
+</p>
 
 <!--
 **brightlightkim/brightlightkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
