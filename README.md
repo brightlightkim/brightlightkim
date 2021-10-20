@@ -1,5 +1,5 @@
 
-[![Brightlightkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightlightkim&hide=stars,issues,contribs,prs)](https://github.com/brightlightkim/github-readme-stats)
+[![Brightlightkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightlightkim&hide=stars,issues,contribs,prs&count_private=true)](https://github.com/brightlightkim/github-readme-stats)
 
 
 <!--
