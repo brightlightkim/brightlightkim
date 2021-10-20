@@ -3,6 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brightlightkim&hide=stars,issues,contribs,prs&count_private=true&theme=gruvbox_light" />
 </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightlightkim&layout=compact)](https://github.com/brightlightkim/github-readme-stats)
 
 <!--
 **brightlightkim/brightlightkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
