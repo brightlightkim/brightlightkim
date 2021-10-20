@@ -6,7 +6,7 @@
 
 <p align = "center">
 <a href="https://github.com/brightlightkim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightlightkim&layout=compact&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightlightkim&hide=html" />
 </a>
 </p>
 
