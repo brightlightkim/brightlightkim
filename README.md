@@ -6,5 +6,5 @@
 I spend most of my days writing React, Next.js, and Node.js.
 
 >## Here's some of the technologies I ❤️ using
-![My Skills](https://skillicons.dev/icons?i=python,java,postgresql,aws,docker,nextjs,react,tailwind,typescript,nodejs, ruby&perline=5)
+![My Skills](https://skillicons.dev/icons?i=python,java,postgresql,aws,docker,nextjs,react,tailwind,typescript,nodejs&perline=5)
 
