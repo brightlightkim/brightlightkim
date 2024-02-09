@@ -1,10 +1,17 @@
-# Hi there 👋
+# 👋 Hey there, I'm Taeyang!
 
-<!-- ## 🔗 [Here's a link to my website](https://spencerbartholomew.com/) -->
+### 🔗 [Check Out My Website](https://taeyangkim.netlify.app/)
 
->## A little bio 📖
-I spend most of my days writing React, Next.js, and Node.js.
+- 💻 Full stack software engineer (web, mobile, AI/ML) and machine learning researcher
+- 🏫 Undergraduate student studying Computer Science at BYU with an emphasis of Data Science
+- 🔭 Working on web development with Next.js, React, and TypeScript, and AI/ML research with Python (Tensorflow, PyTorch)
+- 🌎 Trying to support and contribute to open source projects as much as possible
 
->## Here's some of the technologies I ❤️ using
-![My Skills](https://skillicons.dev/icons?i=python,java,postgresql,aws,docker,nextjs,react,tailwind,typescript,nodejs&perline=5)
 
+***
+
+### Here's some of the technologies I ❤️ using
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,ruby,java,cpp,html,css,postgresql,mysql,aws,firebase,docker,react,nodejs,nextjs,tailwind,sass,rails,tensorflow,pytorch,supabase,git,github&perline=12)
+
+### Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brightlightkim/)
