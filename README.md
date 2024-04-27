@@ -10,11 +10,11 @@
 
 ***
 Award Winning Machine Learning Engineer:
-🏆 1st Place in the 2024 BYU Capstone Celebration Competition in Machine Learning
-🏆 1st Place in the 2024 BYU ACM YHack (Best Hackathon Competition in BYU) with a Benny Award
-🏆 1st Place in the 2023 BYU ITCSA Raspberry Pi Competition (Best Robotics Competition in BYU)
-🏆 1st Place in the 2022 BYU ACM YHack (Best Hackathon Competition in BYU)
-🏆 1st Place in the 2017 Yongin City Internet of Things Hackathon Competition (Best IoT Hackathon Competition at Yongin City in Korea)
+- 🏆 1st Place in the 2024 BYU Capstone Celebration Competition in Machine Learning
+- 🏆 1st Place in the 2024 BYU ACM YHack (Best Hackathon Competition in BYU) with a Benny Award
+- 🏆 1st Place in the 2023 BYU ITCSA Raspberry Pi Competition (Best Robotics Competition in BYU)
+- 🏆 1st Place in the 2022 BYU ACM YHack (Best Hackathon Competition in BYU)
+- 🏆 1st Place in the 2017 Yongin City Internet of Things Hackathon Competition (Best IoT Hackathon Competition at Yongin City in Korea)
 
 ***
 
