@@ -23,3 +23,6 @@ Awards:
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brightlightkim/)
+
+### ☕️ Buy Me a Coffee
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_buttons/blue_btn.png)](https://buymeacoffee.com/brightlightkim)
