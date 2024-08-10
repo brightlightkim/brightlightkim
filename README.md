@@ -25,4 +25,4 @@ Awards:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brightlightkim/)
 
 ### ☕️ Buy Me a Coffee
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=&slug=brightlightkim&button_color=FFDD00&font_color=000000&font_family=Cookie)](https://buymeacoffee.com/brightlightkim)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brightlightkim)
