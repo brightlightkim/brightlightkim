@@ -10,6 +10,7 @@
 
 ***
 Awards:
+- 🏆 1st Place in the 2025 Utah AI Hackathon Competition
 - 🏆 1st Place in the 2024 Utah Developer Hackathon Competition - justbuild.ing
 - 🏆 1st Place in the 2024 BYU Capstone Celebration Competition in Machine Learning
 - 🏆 1st Place in the 2024 BYU ACM YHack (Best Hackathon Competition in BYU) with a Benny Award
