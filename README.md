@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Taeyang Kim
 
 🎓 MS CS @ Georgia Tech (Data Science) | 💼 ML Engineer @ Pattern | 🏆 7x Hackathon Champion  
-🔗 [Website](https://taeyangkim.netlify.app/) • 📧 sunguard9509@gmail.com • 📱 385-283-7793 • [LinkedIn](https://www.linkedin.com/in/brightlightkim/)
+🔗 [Website](https://taeyangkim.info/) • 📧 sunguard9509@gmail.com • 📱 385-283-7793 • [LinkedIn](https://www.linkedin.com/in/brightlightkim/)
 
 ---
 
