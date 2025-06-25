@@ -1,30 +1,91 @@
-# 👋 Hey there, I'm Taeyang!
+# 👋 Hi, I'm Taeyang Kim
 
-### 🔗 [Check Out My Website](https://taeyangkim.netlify.app/)
+🎓 MS CS @ Georgia Tech (Data Science) | 💼 ML Engineer @ Pattern | 🏆 7x Hackathon Champion  
+🔗 [Website](https://taeyangkim.netlify.app/) • 📧 sunguard9509@gmail.com • 📱 385-283-7793 • [LinkedIn](https://www.linkedin.com/in/brightlightkim/)
 
-- 💻 Full stack software engineer (web, mobile, AI/ML) and machine learning researcher
-- 🏫 Masters student studying Computer Science at Georgia Institute of Technology with an emphasis of Data Science
-- 🔭 Working on web development with Next.js, React, and TypeScript, and AI/ML research with Python (Tensorflow, PyTorch)
-- 🌎 Trying to support and contribute to open source projects as much as possible
+---
 
+## 🚀 About Me
+- Full stack software engineer & AI researcher (web, mobile, ML/AI)
+- 4x U.S. Patent holder in AI: content gen, video gen, robotics, GUI
+- Built production ML systems generating $20M+ value, saving $6M+, speeding ops 87%
+- Passionate about AI/ML (PyTorch, TensorFlow), and web dev (Next.js, React, TypeScript)
+- Currently exploring open source, RAG, and AI x UX
 
-***
-Awards:
-- 🏆 1st Place in the 2025 Utah AI Hackathon Competition
-- 🏆 1st Place in the 2024 Utah Developer Hackathon Competition - justbuild.ing
-- 🏆 1st Place in the 2024 BYU Capstone Celebration Competition in Machine Learning
-- 🏆 1st Place in the 2024 BYU ACM YHack (Best Hackathon Competition in BYU) with a Benny Award
-- 🏆 1st Place in the 2023 BYU ITCSA Raspberry Pi Competition (Best Robotics Competition in BYU)
-- 🏆 1st Place in the 2022 BYU ACM YHack (Best Hackathon Competition in BYU)
-- 🏆 1st Place in the 2017 DIPA Internet of Things Hackathon Competition (Best IoT Hackathon Competition at South Korea)
+---
 
-***
+## 🏆 Awards & Honors
+- 🥇 1st Place – 2025 Utah AI Hackathon  
+- 🥇 1st Place – 2024 justbuild.ing Developer Hackathon  
+- 🥇 1st Place – 2024 BYU Capstone (ML)  
+- 🥇 1st Place – 2024 BYU ACM YHack (Benny Award)  
+- 🥇 1st Place – 2023 BYU ITCSA (Robotics)  
+- 🥇 1st Place – 2022 BYU ACM YHack  
+- 🥇 1st Place – 2017 DIPA IoT Hackathon (Korea)  
+- 🏅 Pattern 2024 Employee of the Year (1st out of 1,780)
 
-### Here are some of the technologies I ❤️ using
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,ruby,java,cpp,html,css,postgresql,mysql,aws,firebase,docker,react,nodejs,nextjs,tailwind,sass,rails,tensorflow,pytorch,supabase,git,github&perline=12)
+---
 
-### Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brightlightkim/)
+## 🛠️ Technologies I ❤️
+![Skills](https://skillicons.dev/icons?i=python,js,ts,ruby,java,cpp,html,css,postgresql,mysql,aws,firebase,docker,react,nodejs,nextjs,tailwind,sass,rails,tensorflow,pytorch,supabase,git,github&perline=12)
 
-### ☕️ Buy Me a Coffee
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brightlightkim)
+---
+
+## 🧠 Experience Highlights
+
+**Pattern (Apr 2023 – Present)**  
+_ML Engineer | Lehi, UT_  
+- Led dev of TrendVision (AI marketing + video gen platform) → featured at Accelerate ‘25, US patent filed  
+- Built AI content generation tools → $20M+ value for 200+ brands  
+- Cut $6M costs via RAG ticket resolution (GPT-4o + Snowflake)  
+- Launched global AI editing tool (Streamlit + Snowflake) used daily by 20+ engineers  
+
+**Iris AI Assistant (Dec 2024 – Feb 2025)**  
+_Software Engineer | Remote_  
+- Increased engagement 27% with scalable AI reminder API (AWS Lambda/EventBridge/SQS)
+
+**Sandia National Labs (Sep 2023 – Apr 2024)**  
+_ML Engineer | Remote_  
+- Built “insyt” intrusion detection tool (89.7% accuracy) with DistilBERT → deployed to HuggingFace & PyPI  
+
+**Converus (Jun – Sep 2023)**  
+_Software Engineer Intern_  
+- Delivered analytics dashboard, marketing pages (Next.js, Firebase, GraphQL, Tailwind)  
+- Integrated Split.io, GA, and custom ad tracking  
+
+**BYU DRAGN Lab (May 2022 – Apr 2023)**  
+_Research Assistant II_  
+- Invented AI farming robot (Python, C++, RPi, Arduino) → 1st place at ITCSA  
+- Built LLM web app with Flask + React for Amazon Alexa challenge
+
+**Leftovers / Podflow (2022 – 2023)**  
+_Software Engineer_  
+- Real-time biz dashboards with Rust, PostgreSQL, React, Supabase  
+
+**BYU Broadcasting (Mar – Nov 2022)**  
+_Software Engineer_  
+- Decreased CI/CD time by 40% via Docker + AWS CDK2  
+- Delivered Live Video Rewind feature like YouTube Live  
+
+---
+
+## 🎓 Education
+**Georgia Institute of Technology**  
+_M.S. in Computer Science (2025–2027)_
+
+**Brigham Young University**  
+_B.S. in Computer Science (2020–2024)_  
+- Emphasis: Data Science | Full Academic Scholar | Tech President @ KUBSA
+
+---
+
+## 📜 U.S. Patents
+1. **AI Cross-Channel Marketing Content Generation** (No. 108028-35)  
+2. **Automated Content Creation Systems** (No. 108028-12)  
+3. **Expedited Image Generation for ML Training** (No. 108028-39)  
+4. **Robotic Photography Control Interface** (No. 108028-46)
+
+---
+
+## ☕ Support My Work
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brightlightkim)
