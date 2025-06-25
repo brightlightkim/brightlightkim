@@ -10,7 +10,7 @@
 - 4x U.S. Patent holder in AI: content gen, video gen, robotics, GUI
 - Built production ML systems generating $20M+ value, saving $6M+, and speeding ops 87%
 - Passionate about AI/ML (PyTorch, TensorFlow), and web dev (Next.js, React, TypeScript)
-- Currently exploring open source, RAG, and AI x UX
+- Veteran with leadership, training, and ops excellence (U.S. Army, ARCOM x2, Best KATUSA)
 
 ---
 
@@ -48,13 +48,33 @@
 
 ---
 
+## 🎖 Military Service & Honors
+
+**U.S. Army – Operational Specialist** (Mar 2019 – Sep 2020)  
+_Gyeonggi-do, South Korea • Eighth Army NCO Academy_
+
+- Coordinated operation orders, wrote manuals for unit task performance, and trained 1,800+ soldiers annually (BLC & KATUSA)
+- Evaluated operational performance during major training exercises
+- Supported mission-readiness for a 20-person unit
+
+**Notable Awards & Honors**  
+- 🥇 **ARCOM** (x2) – Army Commendation Medal from LTG Bills & Eighth Army HQ  
+- 🏅 **General Paik Sun Yup Leadership Award** – For contributions to the non-commissioned officer corps  
+- 🏆 **Best KATUSA of the Year 2019** – Republic of Korea Army Support Group  
+- 🎖 Challenge Coins – 8A CG, ROKA Commander, NCOA Commandant (x2)  
+- 🔫 **Weapon Expert**, 💪 **PT Master**  
+- 🎓 **Distinguished Honor Graduate** – KTA, **Honor Graduate** – KATC  
+- 🥇 **Iron Soldier Award**
+
+---
+
 ## 📢 Speaking, Judging & Leadership
 
 **🎤 Guest Speaker**  
-- **AUTOFARM 2025 (Dec 2025)** – Farming automation + robotics innovation 
-- **MLCon NYC (Nov 2025)** – “TrendVision: AI-Powered Marketing Video Gen SaaS”  
-- **Global Data & AI Tech Conf (Aug 2025)** – “Deploying Full-Stack AI Apps w/ Terraform + FastAPI”   
-- **BSidesSLC (Apr–May 2025)** – “LLM-Powered Intrusion Detection with DistilBERT”
+- **MLCon NYC (May 2025)** – “TrendVision: AI Marketing Video Gen SaaS”  
+- **Global Data & AI Conf (May 2025)** – Full-stack AI App Deployment with Terraform + FastAPI  
+- **AUTOFARM 2025 (Jun 2025)** – Robotics + Agriculture AI  
+- **BSidesSLC (Apr–May 2025)** – “LLM-Powered Intrusion Detection”
 
 **🧑‍⚖️ Hackathon Judge**  
 - **University of Utah (Jun 2025)** – “A Breadth of Fresh Air” AI Hackathon  
@@ -62,9 +82,9 @@
 
 **🎓 Student Leadership**  
 - **Georgia Tech (2025–Present)** – Student Advisory Council  
-- **BYU Korea Business Student Association (Jan 2023–Apr 2024)** – Tech President  
-  - Built official website (Next.js, Supabase)  
-  - Led event marketing & LinkedIn engagement
+- **BYU KBSA (2023–2024)** – Tech President  
+  - Built KBSA’s first official website (Next.js, Supabase)  
+  - Led multi-channel event marketing + LinkedIn
 
 ---
 
