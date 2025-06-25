@@ -51,9 +51,9 @@
 ## 📢 Speaking, Judging & Leadership
 
 **🎤 Guest Speaker**  
-- **MLCon NYC (May 2025)** – “TrendVision: AI-Powered Marketing Video Gen SaaS”  
-- **Global Data & AI Tech Conf (May 2025)** – “Deploying Full-Stack AI Apps w/ Terraform + FastAPI”  
-- **AUTOFARM 2025 (Jun 2025)** – Farming automation + robotics innovation  
+- **AUTOFARM 2025 (Dec 2025)** – Farming automation + robotics innovation 
+- **MLCon NYC (Nov 2025)** – “TrendVision: AI-Powered Marketing Video Gen SaaS”  
+- **Global Data & AI Tech Conf (Aug 2025)** – “Deploying Full-Stack AI Apps w/ Terraform + FastAPI”   
 - **BSidesSLC (Apr–May 2025)** – “LLM-Powered Intrusion Detection with DistilBERT”
 
 **🧑‍⚖️ Hackathon Judge**  
