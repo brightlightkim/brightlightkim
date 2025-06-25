@@ -48,26 +48,6 @@
 
 ---
 
-## 🎖 Military Service & Honors
-
-**U.S. Army – Operational Specialist** (Mar 2019 – Sep 2020)  
-_Gyeonggi-do, South Korea • Eighth Army NCO Academy_
-
-- Coordinated operation orders, wrote manuals for unit task performance, and trained 1,800+ soldiers annually (BLC & KATUSA)
-- Evaluated operational performance during major training exercises
-- Supported mission-readiness for a 20-person unit
-
-**Notable Awards & Honors**  
-- 🥇 **ARCOM** (x2) – Army Commendation Medal from LTG Bills & Eighth Army HQ  
-- 🏅 **General Paik Sun Yup Leadership Award** – For contributions to the non-commissioned officer corps  
-- 🏆 **Best KATUSA of the Year 2019** – Republic of Korea Army Support Group  
-- 🎖 Challenge Coins – 8A CG, ROKA Commander, NCOA Commandant (x2)  
-- 🔫 **Weapon Expert**, 💪 **PT Master**  
-- 🎓 **Distinguished Honor Graduate** – KTA, **Honor Graduate** – KATC  
-- 🥇 **Iron Soldier Award**
-
----
-
 ## 📢 Speaking, Judging & Leadership
 
 **🎤 Guest Speaker**  
@@ -85,7 +65,7 @@ _Gyeonggi-do, South Korea • Eighth Army NCO Academy_
 - **BYU KBSA (2023–2024)** – Tech President  
   - Built KBSA’s first official website (Next.js, Supabase)  
   - Led multi-channel event marketing + LinkedIn
-
+ 
 ---
 
 ## 🛠️ Technologies I ❤️
@@ -98,6 +78,26 @@ _Gyeonggi-do, South Korea • Eighth Army NCO Academy_
 2. **Automated Content Creation** (No. 108028-12)  
 3. **Image Gen for ML Training** (No. 108028-39)  
 4. **Robotic Photography Interface** (No. 108028-46)
+
+---
+
+## 🎖 Military Service & Honors
+
+**U.S. Army – Operational Specialist** (Jan 2019 – Sep 2020)  
+_Gyeonggi-do, South Korea • Eighth Army NCO Academy_
+
+- Coordinated operation orders, wrote manuals for unit task performance, and trained 1,800+ soldiers annually (BLC & KATUSA)
+- Evaluated operational performance during major training exercises
+- Supported mission-readiness for a 20-person unit
+
+**Notable Awards & Honors**  
+- 🥇 **ARCOM** (x2) – Army Commendation Medal from LTG Bills & Eighth Army HQ  
+- 🏅 **General Paik Sun Yup Leadership Award** – For contributions to the non-commissioned officer corps  
+- 🏆 **Best KATUSA of the Year 2019** – Republic of Korea Army Support Group  
+- 🎖 Challenge Coins – 8A CG, ROKA Commander, NCOA Commandant (x2)  
+- 🔫 **Weapon Expert**, 💪 **PT Master**  
+- 🎓 **Distinguished Honor Graduate** – KTA, **Honor Graduate** – KATC  
+- 🥇 **Iron Soldier Award**
 
 ---
 
