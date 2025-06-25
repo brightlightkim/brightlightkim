@@ -8,21 +8,63 @@
 ## 🚀 About Me
 - Full stack software engineer & AI researcher (web, mobile, ML/AI)
 - 4x U.S. Patent holder in AI: content gen, video gen, robotics, GUI
-- Built production ML systems generating $20M+ value, saving $6M+, speeding ops 87%
+- Built production ML systems generating $20M+ value, saving $6M+, and speeding ops 87%
 - Passionate about AI/ML (PyTorch, TensorFlow), and web dev (Next.js, React, TypeScript)
 - Currently exploring open source, RAG, and AI x UX
 
 ---
 
 ## 🏆 Awards & Honors
-- 🥇 1st Place – 2025 Utah AI Hackathon  
-- 🥇 1st Place – 2024 justbuild.ing Developer Hackathon  
-- 🥇 1st Place – 2024 BYU Capstone (ML)  
-- 🥇 1st Place – 2024 BYU ACM YHack (Benny Award)  
-- 🥇 1st Place – 2023 BYU ITCSA (Robotics)  
-- 🥇 1st Place – 2022 BYU ACM YHack  
-- 🥇 1st Place – 2017 DIPA IoT Hackathon (Korea)  
-- 🏅 Pattern 2024 Employee of the Year (1st out of 1,780)
+- 🥇 1st – 2025 Utah AI Hackathon  
+- 🥇 1st – 2024 justbuild.ing Hackathon  
+- 🥇 1st – 2024 BYU Capstone ML  
+- 🥇 1st – 2024 BYU ACM YHack (Benny Award)  
+- 🥇 1st – 2023 BYU ITCSA (Robotics)  
+- 🥇 1st – 2022 BYU ACM YHack  
+- 🥇 1st – 2017 DIPA IoT Hackathon (Korea)  
+- 🏅 Pattern 2024 Employee of the Year (1st of 1,780)
+
+---
+
+## 🧠 Experience Highlights
+
+**Pattern (2023–Present)** – ML Engineer  
+- Led dev of TrendVision (AI marketing + video gen SaaS) → US patent filed  
+- AI tools created $20M+ value for 200+ brands; $6M saved via GPT-4o RAG ticket system  
+- Built global content brief editor (Streamlit + Snowflake)
+
+**Iris AI (2024–2025)** – Software Engineer  
+- Boosted engagement 27% via OpenAI-powered reminder API (AWS Lambda + EventBridge)
+
+**Sandia National Labs (2023–2024)** – ML Engineer  
+- Built 89.7% accurate intrusion detector (DistilBERT) → HuggingFace + PyPI
+
+**Converus (2023)** – Software Engineer Intern  
+- Delivered full-featured dashboard + analytics (Next.js, GraphQL, Firebase)
+
+**BYU DRAGN Lab (2022–2023)** – Research Assistant  
+- Invented AI farming robot → 1st place @ BYU ITCSA Robotics  
+- Built Alexa Challenge finalist app (Flask, React, Neo4j)
+
+---
+
+## 📢 Speaking, Judging & Leadership
+
+**🎤 Guest Speaker**  
+- **MLCon NYC (May 2025)** – “TrendVision: AI-Powered Marketing Video Gen SaaS”  
+- **Global Data & AI Tech Conf (May 2025)** – “Deploying Full-Stack AI Apps w/ Terraform + FastAPI”  
+- **AUTOFARM 2025 (Jun 2025)** – Farming automation + robotics innovation  
+- **BSidesSLC (Apr–May 2025)** – “LLM-Powered Intrusion Detection with DistilBERT”
+
+**🧑‍⚖️ Hackathon Judge**  
+- **University of Utah (Jun 2025)** – “A Breadth of Fresh Air” AI Hackathon  
+- **JustBuild (Mar 2025)** – Multi-Modal AI Hackathon
+
+**🎓 Student Leadership**  
+- **Georgia Tech (2025–Present)** – Student Advisory Council  
+- **BYU Korea Business Student Association (Jan 2023–Apr 2024)** – Tech President  
+  - Built official website (Next.js, Supabase)  
+  - Led event marketing & LinkedIn engagement
 
 ---
 
@@ -31,59 +73,11 @@
 
 ---
 
-## 🧠 Experience Highlights
-
-**Pattern (Apr 2023 – Present)**  
-_ML Engineer | Lehi, UT_  
-- Led dev of TrendVision (AI marketing + video gen platform) → featured at Accelerate ‘25, US patent filed  
-- Built AI content generation tools → $20M+ value for 200+ brands  
-- Cut $6M costs via RAG ticket resolution (GPT-4o + Snowflake)  
-- Launched global AI editing tool (Streamlit + Snowflake) used daily by 20+ engineers  
-
-**Iris AI Assistant (Dec 2024 – Feb 2025)**  
-_Software Engineer | Remote_  
-- Increased engagement 27% with scalable AI reminder API (AWS Lambda/EventBridge/SQS)
-
-**Sandia National Labs (Sep 2023 – Apr 2024)**  
-_ML Engineer | Remote_  
-- Built “insyt” intrusion detection tool (89.7% accuracy) with DistilBERT → deployed to HuggingFace & PyPI  
-
-**Converus (Jun – Sep 2023)**  
-_Software Engineer Intern_  
-- Delivered analytics dashboard, marketing pages (Next.js, Firebase, GraphQL, Tailwind)  
-- Integrated Split.io, GA, and custom ad tracking  
-
-**BYU DRAGN Lab (May 2022 – Apr 2023)**  
-_Research Assistant II_  
-- Invented AI farming robot (Python, C++, RPi, Arduino) → 1st place at ITCSA  
-- Built LLM web app with Flask + React for Amazon Alexa challenge
-
-**Leftovers / Podflow (2022 – 2023)**  
-_Software Engineer_  
-- Real-time biz dashboards with Rust, PostgreSQL, React, Supabase  
-
-**BYU Broadcasting (Mar – Nov 2022)**  
-_Software Engineer_  
-- Decreased CI/CD time by 40% via Docker + AWS CDK2  
-- Delivered Live Video Rewind feature like YouTube Live  
-
----
-
-## 🎓 Education
-**Georgia Institute of Technology**  
-_M.S. in Computer Science (2025–2027)_
-
-**Brigham Young University**  
-_B.S. in Computer Science (2020–2024)_  
-- Emphasis: Data Science | Full Academic Scholar | Tech President @ KUBSA
-
----
-
 ## 📜 U.S. Patents
-1. **AI Cross-Channel Marketing Content Generation** (No. 108028-35)  
-2. **Automated Content Creation Systems** (No. 108028-12)  
-3. **Expedited Image Generation for ML Training** (No. 108028-39)  
-4. **Robotic Photography Control Interface** (No. 108028-46)
+1. **Cross-Channel AI Marketing Gen** (No. 108028-35)  
+2. **Automated Content Creation** (No. 108028-12)  
+3. **Image Gen for ML Training** (No. 108028-39)  
+4. **Robotic Photography Interface** (No. 108028-46)
 
 ---
 
