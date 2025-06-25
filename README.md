@@ -9,7 +9,7 @@
 - Full stack software engineer & AI researcher (web, mobile, ML/AI)
 - 4x U.S. Patent holder in AI: content gen, video gen, robotics, GUI
 - Built production ML systems generating $20M+ value, saving $6M+, and speeding ops 87%
-- Passionate about AI/ML (PyTorch, TensorFlow), and web dev (Next.js, React, TypeScript)
+- Passionate about AI/ML (PyTorch, TensorFlow), Robotics, and web dev (Next.js, React, TypeScript)
 - Veteran with leadership, training, and ops excellence (U.S. Army, ARCOM x2, Best KATUSA)
 
 ---
