@@ -15,8 +15,8 @@
 ---
 
 ## 🏆 Awards & Honors
-- 🥇 1st – 2025 Innovation Cup Accelerate 25  
-- 🥇 1st – 2025 Innovation Cup Accelerate 25
+- 🥇 1st – 2025 Innovation Cup Accelerate 25 (Portal)
+- 🥇 1st – 2025 Innovation Cup Accelerate 25 (TrendVision)
 - 🥇 1st – 2025 Utah AI Hackathon  
 - 🥇 1st – 2024 justbuild.ing Hackathon  
 - 🥇 1st – 2024 BYU Capstone ML  
