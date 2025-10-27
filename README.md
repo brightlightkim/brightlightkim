@@ -33,22 +33,27 @@
 ## 🧠 Experience Highlights
 
 **Pattern (2023–Present)** – ML Engineer  
-- Led dev of TrendVision (AI marketing + video gen SaaS) → US patent filed  
-- AI tools created $20M+ value for 200+ brands; $6M saved via GPT-4o RAG ticket system  
-- Built global content brief editor (Streamlit + Snowflake)
+- Reduced manual data collection by 95% by developing an end-to-end robotic photography system with a C++ Crow and Python FastAPI backend for automated image capture with Sony SDK featuring at AWS re:Invent 2025
+- Generated $10M+ in value for 200+ brands by architecting and launching TrendVision, a production-level generative AI marketing platform from scratch
+- Cut operational costs by $6M and accelerated ticket resolution by 87% by building a RAG-based AI support system using OpenAI (GPT-4o) and Snowflake
+- Streamlined global content workflows for 20+ engineers by deploying a company-wide AI brief editing tool using Streamlit and Snowflake
 
 **Iris AI (2024–2025)** – Software Engineer  
-- Boosted engagement 27% via OpenAI-powered reminder API (AWS Lambda + EventBridge)
+- Boosted user engagement by 27% by architecting a scalable AI reminder API using AWS Lambda, SQS, and OpenAI, while resolving over 20 critical bugs in Apple LiveChat and Twilio handling 2M messages
 
 **Sandia National Labs (2023–2024)** – ML Engineer  
-- Built 89.7% accurate intrusion detector (DistilBERT) → HuggingFace + PyPI
+- Achieved 89.7% accuracy in multi-label intrusion detection by building "insyt," a DistilBERT-based tool deployed as an open-source PyPI package and HuggingFace model
 
 **Converus (2023)** – Software Engineer Intern  
-- Delivered full-featured dashboard + analytics (Next.js, GraphQL, Firebase)
+- Delivered a 12-feature analytics dashboard ahead of schedule (Next.js, TailwindCSS, Firebase, GraphQL)
+- Integrated Split.io, Google Analytics, and internal ad tracking into analytics dashboard, resulting in a 15% reduction in manual report generation time
 
 **BYU DRAGN Lab (2022–2023)** – Research Assistant  
-- Invented AI farming robot → 1st place @ BYU ITCSA Robotics  
-- Built Alexa Challenge finalist app (Flask, React, Neo4j)
+- Invented a 1st place-winning AI farming robot (Python, C++) and developed a full-stack app (Flask, React) for an Amazon Alexa Competition Finalist LLM
+
+**BYU Broadcasting (2022–2022)** – Software Engineer Intern
+- Reduced Video Stream Save Service CI / CD Time by 40% resulting in faster delivery of content to users with Docker
+
 
 ---
 
