@@ -8,7 +8,9 @@
 ## 🚀 About Me
 - Full stack software engineer & AI researcher (web, mobile, ML/AI)
 - 4x U.S. Patent holder in AI: content gen, video gen, robotics, GUI
-- Built production ML systems generating $20M+ value, saving $6M+, and speeding ops 87%
+- 7x Guest Speaker at World Class AI & ML Conference including Nodes 2025, MLCon 2025, MLOps 2025
+- 9x 1st Place Hackthon Winner at national AI & ML & Robotics Conferences
+- Built production ML systems generating $10M+ value, saving $6M+, and speeding ops 87%
 - Passionate about AI/ML (PyTorch, TensorFlow), Robotics, and web dev (Next.js, React, TypeScript)
 - Veteran with leadership, training, and ops excellence (U.S. Army, ARCOM x2, Best KATUSA)
 
@@ -53,10 +55,13 @@
 ## 📢 Speaking, Judging & Leadership
 
 **🎤 Guest Speaker**  
-- **MLCon NYC (May 2025)** – “TrendVision: AI Marketing Video Gen SaaS”  
-- **Global Data & AI Conf (May 2025)** – Full-stack AI App Deployment with Terraform + FastAPI  
-- **AUTOFARM 2025 (Jun 2025)** – Robotics + Agriculture AI  
-- **BSidesSLC (Apr–May 2025)** – “LLM-Powered Intrusion Detection”
+- **Prompt Engineering 2025** - "AI-Powered Content Automation for E-commerce Success"
+- **Nodes 2025** - "Knowledge Graph–Driven Feedback Loops to Optimize TikTok Shop Video MarketingKnowledge Graph–Driven Feedback Loops to Optimize TikTok Shop Video Marketing"
+- **MLCon NYC 2025** – “From Model to Market: Deploying Generative AI Video & Audio Systems at Scale”
+- **MLOps 2025** - "TrendVision: An End-to-End Guide to AI-Powered Marketing Video Generation SaaS Deployment"
+- **Global Data & AI Conf 2025** – Full-stack AI App Deployment with Terraform + FastAPI  
+- **AUTOFARM 2025** – Robotics + Agriculture AI  
+- **BSidesSLC 2025** – “LLM-Powered Intrusion Detection”
 
 **🧑‍⚖️ Hackathon Judge**  
 - **University of Utah (Jun 2025)** – “A Breadth of Fresh Air” AI Hackathon  
