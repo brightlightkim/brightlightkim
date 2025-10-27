@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - Full stack software engineer & AI researcher (web, mobile, ML/AI)
 - 4x U.S. Patent holder in AI: content gen, video gen, robotics, GUI
-- 7x Guest Speaker at World Class AI & ML Conference including Nodes 2025, MLCon 2025, MLOps 2025
+- 7x Guest Speaker at World Class AI & ML Conferences including Nodes 2025, MLCon 2025, MLOps 2025
 - 9x 1st Place Hackthon Winner at national AI & ML & Robotics Conferences
 - Built production ML systems generating $10M+ value, saving $6M+, and speeding ops 87%
 - Passionate about AI/ML (PyTorch, TensorFlow), Robotics, and web dev (Next.js, React, TypeScript)
@@ -73,7 +73,8 @@
 - **JustBuild (Mar 2025)** – Multi-Modal AI Hackathon
 
 **🎓 Student Leadership**  
-- **Georgia Tech (2025–Present)** – Student Advisory Council  
+- **Georgia Tech (2025–Present)**
+  – Student Advisory Council  
 - **BYU KBSA (2023–2024)** – Tech President  
   - Built KBSA’s first official website (Next.js, Supabase)  
   - Led multi-channel event marketing + LinkedIn
